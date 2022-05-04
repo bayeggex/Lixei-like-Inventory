@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77fb7945054dae74b95bc8016530d079, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  itemName: Axe
+  itemDescription: Chop Tree
+  canStackable: 0
+  itemIcon: {fileID: 21300000, guid: e1e92350ad6b56a4bb6f01fdc3822743, type: 3}
+  itemPrefab: {fileID: 2744915733413606420, guid: 1e71e9fbc301ea14a9580015d4694e33, type: 3}
+  damege: 15
